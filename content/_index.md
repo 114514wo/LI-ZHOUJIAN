@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on the intersection of artificial intelligence and robotics, with particular interests in autonomous driving systems, reinforcement learning algorithms, and large language models.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am currently pursuing my Master's degree in Robotics at the National University of Singapore, where I explore innovative solutions for intelligent navigation, path planning optimization, and computer vision applications in robotic systems.
         
-        Please reach out to collaborate 😃
+        Feel free to reach out for collaboration opportunities! 😃
     design:
       columns: '1'
   - block: collection

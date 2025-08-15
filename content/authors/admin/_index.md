@@ -34,7 +34,7 @@ profiles:
     url: zhoujianli01@u.nus.edu
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/lizhoujian
   - icon: brands/linkedin
     url: https://www.linkedin.com/
 
@@ -48,14 +48,14 @@ interests:
 education:
   - area: MSc Robotics
     institution: National University of Singapore
-    date_start: 2025.08
-    date_end: Present
+    date_start: 2025-08-01
+    date_end: ''
     summary: |
      ''
   - area: BSc Intelligent Manufacturing
     institution: Soochow Technology
-    date_start: 2020.09
-    date_end: 2024.06
+    date_start: 2020-09-01
+    date_end: 2024-06-30
     summary: |
       GPA: 3.5/4.0
       Weighted Average Mark: 86/100
@@ -80,7 +80,7 @@ work:
     date_start: 2023-06-01
     date_end: 2023-08-31
     summary: |
-      Responsibilities includ:
+      Responsibilities include:
       -Simulation Map Modeling in Ubuntu System 
       -Local Path Planning via Gradient Descent Optimization of the A* Algorithm.
 
@@ -108,7 +108,7 @@ skills:
       - name: Traveling
         description: ''
         percent: 60
-        icon: person-seimple-walk
+        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am LI ZHOUJIAN, currently pursuing a Master's degree in Robotics at the National University of Singapore. My research interests focus on artificial intelligence, autonomous driving, reinforcement learning, and large language models. With a background in intelligent manufacturing and practical experience in image processing and navigation algorithms, I am passionate about developing innovative solutions in robotics and AI technologies.
