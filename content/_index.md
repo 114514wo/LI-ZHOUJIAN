@@ -63,48 +63,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: accomplishments
+  - block: markdown
     content:
-      title: Awards & Honors
+      title: '🏆 Awards & Honors'
       subtitle: ''
-      text: ''
-      date_format: Jan 2006
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-08-01'
-          description: 'Top achievement in national robotics development competition'
-          organization: RoboCom
-          organization_url: ''
-          title: '🥇 National First Prize - RAICOM Robotics Developer Competition National Finals'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2022-08-01'
-          description: 'Excellence in robotics and artificial intelligence applications'
-          organization: China Robotics and AI Competition
-          organization_url: ''
-          title: '🥈 National Second Prize - 24th China Robotics and Artificial Intelligence Competition'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-07-01'
-          description: 'Innovation in computer software design and development'
-          organization: China College Students Computer Design Competition
-          organization_url: ''
-          title: '🥉 National Third Prize - 16th China College Students Computer Design Competition'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2022-11-01'
-          description: 'Regional excellence in robotics technology and innovation'
-          organization: Jiangsu Province Education Department
-          organization_url: ''
-          title: '🏆 Provincial First Prize - 13th Jiangsu Province College Students Robotics Competition'
-          url: ''
+      text: |-
+        ## Recent Achievements
+        
+        🥇 **National First Prize** - RAICOM Robotics Developer Competition National Finals (Aug 2023)  
+        *Top achievement in national robotics development competition*
+        
+        🥈 **National Second Prize** - 24th China Robotics and Artificial Intelligence Competition (Aug 2022)  
+        *Excellence in robotics and artificial intelligence applications*
+        
+        🥉 **National Third Prize** - 16th China College Students Computer Design Competition (July 2023)  
+        *Innovation in computer software design and development*
+        
+        🏆 **Provincial First Prize** - 13th Jiangsu Province College Students Robotics Competition (Nov 2022)  
+        *Regional excellence in robotics technology and innovation*
     design:
       columns: '1'
-      view: list
 
 
 ---
