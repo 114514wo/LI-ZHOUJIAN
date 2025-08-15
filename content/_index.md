@@ -53,14 +53,17 @@ sections:
     design:
       view: article-grid
       columns: 2
+      fill_image: true
   - block: collection
     content:
       title: Recent Publications
       text: ""
+      count: 1
       filters:
         folders:
           - publication
         exclude_featured: false
+      order: desc
     design:
       view: citation
   - block: markdown
