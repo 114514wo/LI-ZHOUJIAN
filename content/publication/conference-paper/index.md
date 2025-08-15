@@ -5,17 +5,21 @@ title: 'A Reinforcement Learning-Driven Algorithm for Rapid Path Replanning of R
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - H. Min
   - admin
+  - W. Chi
 
 # Author notes (optional)
 author_notes:
   - 'First author'
+  - 'Second author'
+  - 'Third author'
 
-date: '2025-01-01T00:00:00Z'
+date: '2025-05-01T00:00:00Z'
 doi: '10.1109/CCDC65474.2025.11090489'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2025 37th Chinese Control and Decision Conference (CCDC)*
+publication: In *2025 37th Chinese Control and Decision Conference (CCDC), Xiamen, China, 2025, pp. 3998-4003*
 publication_short: In *CCDC 2025*
 
 abstract: This paper presents a reinforcement learning-driven algorithm for rapid path replanning in robot navigation within indoor uncertain discrete environments. The proposed approach enhances traditional path planning methods by incorporating adaptive learning mechanisms that enable robots to quickly respond to dynamic environmental changes and uncertainties.

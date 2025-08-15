@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postgraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: zhoujianli01@u.nus.edu
+    url: mailto:E1539341@u.nus.edu
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/114514wo
