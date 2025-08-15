@@ -41,7 +41,7 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - End-to-end Autonomous Driving (E2E)
+  - End-to-end Autonomous Driving 
   - Reinforcement Learning
   - Large Language Models
 
@@ -129,31 +129,44 @@ languages:
   - name: Proficient English
     percent: 80
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
+# Awards & Honors
+#   Professional awards and competition achievements
 awards:
-  - title: National First Prize in RAICOM (RoboCom Robotics Developer Competition) National Finals
+  - title: "🥇 National First Prize - RAICOM Robotics Developer Competition National Finals"
     date: '2023-08-01'
     awarder: RoboCom
-  - title: National Second Prize in the 24th China Robotics and Artificial Intelligence Competition
+    summary: |
+      Top achievement in national robotics development competition
+  - title: "🥈 National Second Prize - 24th China Robotics and Artificial Intelligence Competition"
     date: '2022-08-01'
     awarder: China Robotics and AI Competition
-  - title: National Third Prize in the 16th China College Students Computer Design Competition
+    summary: |
+      Excellence in robotics and artificial intelligence applications
+  - title: "🥉 National Third Prize - 16th China College Students Computer Design Competition"
     date: '2023-07-01'
     awarder: China College Students Computer Design Competition
-  - title: Provincial First Prize in the 13th Jiangsu Province College Students Robotics Competition
+    summary: |
+      Innovation in computer software design and development
+  - title: "🏆 Provincial First Prize - 13th Jiangsu Province College Students Robotics Competition"
     date: '2022-11-01'
     awarder: Jiangsu Province Education Department
-  - title: Provincial Second Prize in RAICOM (RoboCom Robotics Developer Competition) Jiangsu Regional Contest
+    summary: |
+      Regional excellence in robotics technology and innovation
+  - title: "🥈 Provincial Second Prize - RAICOM Jiangsu Regional Contest"
     date: '2023-07-01'
     awarder: RoboCom Jiangsu Region
-  - title: Second Prize in the 16th Siemens Cup 'Intelligent Manufacturing Challenge' National Preliminary
+    summary: |
+      Outstanding performance in regional robotics development
+  - title: "🥈 Second Prize - 16th Siemens Cup Intelligent Manufacturing Challenge"
     date: '2022-08-01'
     awarder: Siemens Cup
-  - title: Provincial Third Prize in the 10th National College Students Optoelectronics Design Competition
+    summary: |
+      Recognition in intelligent manufacturing and automation
+  - title: "🥉 Provincial Third Prize - 10th National College Students Optoelectronics Design Competition"
     date: '2022-08-01'
     awarder: National College Students Optoelectronics Design Competition
+    summary: |
+      Achievement in optoelectronics system design and implementation
 ---
 
 ## About Me
