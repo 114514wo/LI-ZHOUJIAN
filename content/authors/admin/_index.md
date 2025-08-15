@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: LI ZHOUJIAN
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: ''
+last_name: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👋
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,103 +24,80 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ''
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: zhoujianli01@u.nus.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous Driving
+  - Reinforcement Learning
+  - Large Language Models
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Robotics
+    institution: National University of Singapore
+    date_start: 2025.08
+    date_end: Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+     ''
+  - area: BSc Intelligent Manufacturing
+    institution: Soochow Technology
+    date_start: 2020.09
+    date_end: 2024.06
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.5/4.0
+      Weighted Average Mark: 86/100
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Modeling and Simulation of Industrial Robots, Advanced Mathematics I-2, Robotics, Industrial Internet, Java Programming, Intelligent Manufacturing Information System, Intelligent Sensing, Linear Algebra , Artificial Intelligence, PLC & Electric Control etc.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Image Processing Engineer
+    company_name: Shenzhen Tianchen Defense Communication Technology Corporation
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-06-01
+    date_end: 2022-08-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Responsibilities includes :
+      -assisting in the design of interfaces using the C programming language
+      -utilizing the common image processing library OpenCV for image training.
+  - position: Assistant Navigation Algorithms Engineer
+    company_name: Suzhou Suxiang Robot Intelligent Equipment Corporation
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-01
+    date_end: 2023-08-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities includ:
+      -Simulation Map Modeling in Ubuntu System 
+      -Local Path Planning via Gradient Descent Optimization of the A* Algorithm.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python/Pytorch
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Ros
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Matlab/Simulink
         description: ''
         percent: 40
         icon: circle-stack
@@ -128,10 +105,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: person-seimple-walk
       - name: Cats
         description: ''
         percent: 100
@@ -142,12 +119,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Native Chinese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Proficient English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
