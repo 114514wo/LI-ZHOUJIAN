@@ -1,20 +1,18 @@
 ---
-title: 'An example conference paper'
+title: 'A Reinforcement Learning-Driven Algorithm for Rapid Path Replanning of Robot Navigation in Indoor Uncertain Discrete Environments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'First author'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2025-01-01T00:00:00Z'
+doi: '10.1109/CCDC65474.2025.11090489'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,16 +23,19 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2025 37th Chinese Control and Decision Conference (CCDC)*
+publication_short: In *CCDC 2025*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents a reinforcement learning-driven algorithm for rapid path replanning in robot navigation within indoor uncertain discrete environments. The proposed approach enhances traditional path planning methods by incorporating adaptive learning mechanisms that enable robots to quickly respond to dynamic environmental changes and uncertainties.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A novel reinforcement learning approach for efficient robot path replanning in uncertain indoor environments, enabling rapid adaptation to dynamic conditions.
 
 tags:
-  - Large Language Models
+  - Reinforcement Learning
+  - Path Planning
+  - Robot Navigation
+  - Indoor Environments
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +45,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'conference-paper.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://www.researchgate.net/publication/394340803_A_Reinforcement_Learning-Driven_Algorithm_for_Rapid_Path_Replanning_of_Robot_Navigation_in_Indoor_Uncertain_Discrete_Environments'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,23 +66,33 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+## Publication Details
+
+**DOI:** 10.1109/CCDC65474.2025.11090489  
+**Conference:** 2025 37th Chinese Control and Decision Conference (CCDC)  
+**ResearchGate:** [View full publication](https://www.researchgate.net/publication/394340803_A_Reinforcement_Learning-Driven_Algorithm_for_Rapid_Path_Replanning_of_Robot_Navigation_in_Indoor_Uncertain_Discrete_Environments)
+
+## Abstract
+
+This research addresses the challenging problem of robot navigation in indoor uncertain discrete environments by proposing a reinforcement learning-driven algorithm for rapid path replanning. The algorithm integrates adaptive learning mechanisms that enable autonomous robots to efficiently respond to dynamic environmental changes, obstacles, and uncertainties commonly encountered in indoor settings.
+
+## Key Contributions
+
+- Development of a novel reinforcement learning framework for dynamic path replanning
+- Enhanced adaptability to uncertain and changing indoor environments  
+- Improved computational efficiency for real-time navigation applications
+- Comprehensive evaluation in discrete indoor environment scenarios
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Click the _Cite_ button above to import publication metadata into your reference management software.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

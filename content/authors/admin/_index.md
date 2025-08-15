@@ -34,9 +34,12 @@ profiles:
     url: zhoujianli01@u.nus.edu
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/lizhoujian
+    url: https://github.com/114514wo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/LIZHOUJIAN
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Li-Zhoujian
+    label: ResearchGate
 
 
 interests:
