@@ -26,7 +26,7 @@ summary: Publication update pending - new research findings will be available so
 
 tags:
 - Research Update
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -59,7 +59,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 ## Publication Status
