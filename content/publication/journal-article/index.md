@@ -28,6 +28,9 @@ tags:
 - Research Update
 featured: true
 
+# Disable social sharing
+share: false
+
 # links:
 # - name: ""
 #   url: ""

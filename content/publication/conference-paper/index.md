@@ -44,6 +44,9 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
+# Disable social sharing
+share: false
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
