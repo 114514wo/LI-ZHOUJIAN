@@ -5,7 +5,7 @@ title: "DVDP: An End-to-End Policy for Mobile Robot Visual Docking with RGB-D Pe
 # Use short names or usernames consistent with your site; replace as needed
 authors:
   - H. Min
-  - Z. Li
+  - admin
   - Y. Yang
   - J. Chen
   - S. Yuan
@@ -21,7 +21,7 @@ doi: "10.48550/arXiv.2509.13024"
 publishDate: "2025-09-16T00:00:00Z"
 
 # Publication type (CSL standard)
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"
